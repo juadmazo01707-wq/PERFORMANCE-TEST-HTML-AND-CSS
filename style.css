@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap'); 
 
 * { /* Base Styles */
     margin: 0;
@@ -836,4 +836,4 @@ body {
 
 html { /* Scroll suave */
     scroll-behavior: smooth;
-}
+} /**/
