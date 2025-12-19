@@ -124,7 +124,7 @@ To modify the styles:
 
 
 # Project Structure
-
+```
 Performance test/
 ├── index.html          # Home Page
 ├── style.css          # Main css styles
@@ -143,3 +143,4 @@ Performance test/
     ├── Frame 10.png
     ├── image 18-20.png
     └── ...
+```
