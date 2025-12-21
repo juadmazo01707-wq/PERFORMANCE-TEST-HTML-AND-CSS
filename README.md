@@ -126,7 +126,7 @@ To modify the styles:
 # Project Structure
 ```
 Performance test/
-├── index.html          # Home Page
+├── index.html         # Home Page
 ├── style.css          # Main css styles
 ├── README.md          # Project documentaiton
 └── img/               # Project images
